@@ -8,6 +8,3 @@ INSERT INTO tb_cliente(name, cpf, income, birth_date, children)values('Steven Ty
 INSERT INTO tb_cliente(name, cpf, income, birth_date, children)values('Ozzy Osbourne', '888888888-88',11850.00,'1948-12-03',2);
 INSERT INTO tb_cliente(name, cpf, income, birth_date, children)values('Angus Young', '999999999-99',12850.00,'1955-03-31',3);
 INSERT INTO tb_cliente(name, cpf, income, birth_date, children)values('Elvis Presley', '987654321-00',15850.00,'1935-01-08',1);
-
- 
-
